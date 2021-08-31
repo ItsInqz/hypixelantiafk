@@ -1,2 +1,2 @@
-# hypixelantiafk
+# Hypixelantiafk
 ANTI afk program
